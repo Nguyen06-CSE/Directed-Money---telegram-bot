@@ -1,4 +1,10 @@
-﻿# Telegram OCR Bot (Doc so tien + cong tong)
+DỰ ÁN ĐẦU TIÊN 100% VIBE-CODING
+
+
+MỤC TIÊU DỰ ÁN
+tạo một chatbot trên nền tảng Telegram với mục đích HỖ TRỢ thu thập, tổng hợp và quản lí dòng tiền chuyển khoản cho các doanh nghiệm kinh doanh F&B nhỏ
+
+ # Telegram OCR Bot (Doc so tien + cong tong)
 
 Bot nhan 1-50 anh giao dich, tu dong OCR so tien (vi du 90k / 90.000d), hien tung dong va cong tong.
 
